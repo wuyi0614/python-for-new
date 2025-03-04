@@ -1,3 +1,12 @@
+# OS files
+.DS_store
+.idea/
+data/
+source/
+*local.*
+*local/
+*.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
