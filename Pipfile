@@ -1,4 +1,5 @@
 [[source]]
+# if pypi is too slow, use https://mirrors.aliyun.com/pypi/simple/ instead
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
