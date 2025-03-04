@@ -1,7 +1,6 @@
 # OS files
 .DS_store
 .idea/
-data/
 source/
 *local.*
 *local/
